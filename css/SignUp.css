@@ -1,0 +1,54 @@
+body{
+	font-family: "Andale Mono", "Monotype.com", monospace;
+}
+
+.tulisan_signup{
+	text-align: center;
+	margin-bottom: 3px;
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+.kotak_signup{
+	width: 400px;
+	height: 525px;
+	background: #eee;
+	margin: 20px auto;
+	padding: 30px 20px;
+	margin-right: 350px;
+	border-radius: 10px;
+	margin-top: 60px;
+
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_signup{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+
+.tombol_signup{
+	background: #A9A9A9;
+	color: black;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	border-radius: 20px;
+	cursor: pointer;
+}
+
+.link{
+	margin-top: 5px;
+	color: #808080;
+	font-size: 15pt;
+}
